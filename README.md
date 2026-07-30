@@ -3,7 +3,7 @@ ASL translator
 Introduction
 
 The ASL Translator is a real-time American Sign Language (ASL) alphabet recognition system that uses computer vision and deep learning to recognize hand gestures from a webcam and translate them into text. The project is designed to run on an NVIDIA Jetson Orin Nano, enabling fast, on-device inference without requiring cloud services.
-<img width="2191" height="1572" alt="Screenshot 2026-07-30 101300" src="https://github.com/user-attachments/assets/85be5b58-2089-4d35-9dfc-953e45eaeb67" />
+<img width="2190" height="1521" alt="Screenshot 2026-07-30 104448" src="https://github.com/user-attachments/assets/a55d671e-1f0d-4e04-aaaf-2c2a3ca2854d" />
 
 The Algorithm
 
